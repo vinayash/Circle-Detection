@@ -1,0 +1,2 @@
+# Circle-Detection
+This program, coded in Python, detects well defined circles in an input image. The input image used to test this program was a group of coins, and different results of the program detecting circles of radii of 5, 27, 36, 40 and 42 are published as well. Also, the image was filtered an had edges defined using the Canny Edge Detection method. The resulting images are also published. The circle identification scheme was worked upon using the Hough Transform technique.
